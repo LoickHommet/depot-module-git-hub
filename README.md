@@ -1,7 +1,7 @@
 # depot-module-git-hub
 Un dépôt créer pour le module git hub pour h3hitema  
 
-##Commandes Unix
+## Commandes Unix
 
 Voici quelque commandes:
 
@@ -9,7 +9,7 @@ Voici quelque commandes:
 -`ls`: lister les fichier
 - ...
 
-###titre de niveau 3
+### titre de niveau 3
 une cerrtaine **information en gras**
 
 et une information e, *italique*
